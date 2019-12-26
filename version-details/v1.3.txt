@@ -1,0 +1,31 @@
+======================================== version 1.3 ========================================
+Deploy date: 05-17-2017
+- Added "Advanced Search" in Customer. Search by: country
+- Added "Advanced Search" in Quotation. Search by: status, min value, max value
+- Added field "value" in Quotation and Historic_Quotation
+- Added field "value" in Edit Quotation
+- Added field "value" in Create Quotation
+- Added field "value" in view Quotation table
+- Added an editable "Status" field on the view quotation table
+
+======================================== version 1.2 ========================================
+Deploy date: 05-02-2017
+- Fixed the problem with the quotation marks ("") on the quotation_name, quotation_description, revision_name, revision_description
+
+======================================== version 1.1 ========================================
+Deploy date: 04-24-2017
+- Added an editable "Status" field on the quotation
+- Added "Revisions" under the quotation
+- Added restriction: A revision can only being created while the quotation is either on the status "Closed" or "Canceled".
+- Added an editable "Status" field on the revision
+- Added function to attach a file in a "Revision".
+- Added "Profile" page and now it's possible to change the password for the account logged in.
+- Added a progress line on the dashboard to show how many quotations and revisions there are on each status (in progress, canceled,...)
+- Added "back" buttons in the pages
+- Saving historic for all editions in "Revisions" with date and who made the change.
+
+======================================== version 1.0 ========================================
+Deploy date: 
+
+======================================= DEVELOPER ===========================================
+	   Karen Nogueira Gomes de Souza - karen.nogueira@sheerindustries.com
